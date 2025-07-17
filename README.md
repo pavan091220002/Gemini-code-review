@@ -1,2 +1,0 @@
-# Gemini code review
- 
