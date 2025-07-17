@@ -1,4 +1,3 @@
-```markdown
 # Code Analysis API
 
 A robust FastAPI-based application for automated code analysis and review, leveraging GitHub integration, static analysis tools, and Google's Gemini AI for comprehensive code reviews.
@@ -47,7 +46,6 @@ See `requirements.txt` for the complete list.
    git clone https://github.com/your-organization/code-analysis-api.git
    cd code-analysis-api
    ```
-
 2. **Set Up a Virtual Environment**:
 
    Create a virtual environment to isolate project dependencies:
